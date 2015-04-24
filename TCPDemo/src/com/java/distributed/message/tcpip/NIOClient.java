@@ -11,6 +11,9 @@ import java.nio.channels.Selector;
 import java.nio.channels.SocketChannel;
 import java.nio.charset.Charset;
 
+/**
+* ¿Í»§¶Ë
+*/
 public class NIOClient {
 
 	/**
